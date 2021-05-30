@@ -1,0 +1,65 @@
+\BOOKMARK [0][-]{chapter.1}{مقدمه}{}% 1
+\BOOKMARK [1][-]{section.1.1}{هدف}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{دامنه}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{تعاریف، سرنام ها و کوته نوشت ها}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{مراجع}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.5}{طرح کلی}{chapter.1}% 6
+\BOOKMARK [0][-]{chapter.2}{شرح کلی}{}% 7
+\BOOKMARK [1][-]{section.2.1}{چشم انداز محصول}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.1.1}{واسط‌های سیستم}{section.2.1}% 9
+\BOOKMARK [2][-]{subsection.2.1.2}{واسط‌های کاربر}{section.2.1}% 10
+\BOOKMARK [2][-]{subsection.2.1.3}{واسط های سخت افزاری}{section.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.1.4}{واسط های نرم افزاری}{section.2.1}% 12
+\BOOKMARK [2][-]{subsection.2.1.5}{واسطه های ارتباطی}{section.2.1}% 13
+\BOOKMARK [2][-]{subsection.2.1.6}{واسطه های حافظه}{section.2.1}% 14
+\BOOKMARK [2][-]{subsection.2.1.7}{واسطه های عملیات}{section.2.1}% 15
+\BOOKMARK [2][-]{subsection.2.1.8}{نیازمندی های سازگاری با محیط نصب}{section.2.1}% 16
+\BOOKMARK [1][-]{section.2.2}{کارکرد محصول}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.3}{مشخصات کاربر}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.4}{قیود}{chapter.2}% 19
+\BOOKMARK [1][-]{section.2.5}{مفروضات و وابستگی ها}{chapter.2}% 20
+\BOOKMARK [0][-]{chapter.3}{نیازمندی های خاص}{}% 21
+\BOOKMARK [1][-]{section.3.1}{نیازمندی های واسط خارجی}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.1.1}{واسط‌های سیستم}{section.3.1}% 23
+\BOOKMARK [2][-]{subsection.3.1.2}{واسط‌های کاربر}{section.3.1}% 24
+\BOOKMARK [2][-]{subsection.3.1.3}{واسط‌های سخت افزاری}{section.3.1}% 25
+\BOOKMARK [2][-]{subsection.3.1.4}{واسط‌های نرم‌افزاری}{section.3.1}% 26
+\BOOKMARK [2][-]{subsection.3.1.5}{واسط‌های ارتباطی}{section.3.1}% 27
+\BOOKMARK [1][-]{section.3.2}{نیازمندی های کارکردی}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.3}{نیازمندی های کارایی}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.4}{قیود طراحی}{chapter.3}% 30
+\BOOKMARK [2][-]{subsection.3.4.1}{زبان برنامه نویسی و توسعه}{section.3.4}% 31
+\BOOKMARK [2][-]{subsection.3.4.2}{سرور سیستم}{section.3.4}% 32
+\BOOKMARK [2][-]{subsection.3.4.3}{بودجه‌ی مالی}{section.3.4}% 33
+\BOOKMARK [2][-]{subsection.3.4.4}{بودجه‌ی زمانی}{section.3.4}% 34
+\BOOKMARK [1][-]{section.3.5}{صفت‌های سیستم نرم افزاری}{chapter.3}% 35
+\BOOKMARK [2][-]{subsection.3.5.1}{قابلیت اطمینان}{section.3.5}% 36
+\BOOKMARK [2][-]{subsection.3.5.2}{نرخ خطا}{section.3.5}% 37
+\BOOKMARK [2][-]{subsection.3.5.3}{رعایت استاندارد امنیتی IEEE STD-1228}{section.3.5}% 38
+\BOOKMARK [0][-]{chapter.4}{مدل دامنه}{}% 39
+\BOOKMARK [1][-]{section.4.1}{گام جمع آوری اطلاعات دامنه‌ی کاربرد}{chapter.4}% 40
+\BOOKMARK [1][-]{section.4.2}{گام طوفان فکری}{chapter.4}% 41
+\BOOKMARK [1][-]{section.4.3}{گام دسته بندی نتایج طوفان فکری}{chapter.4}% 42
+\BOOKMARK [1][-]{section.4.4}{مرور مدل دامنه}{chapter.4}% 43
+\BOOKMARK [0][-]{chapter.5}{معماری سیستم}{}% 44
+\BOOKMARK [1][-]{section.5.1}{تعیین اهداف معماری}{chapter.5}% 45
+\BOOKMARK [1][-]{section.5.2}{تعیین نوع سیستم، تعیین واسطه ها و زیرسیستم ها}{chapter.5}% 46
+\BOOKMARK [1][-]{section.5.3}{استفاده از یک سبک معماری}{chapter.5}% 47
+\BOOKMARK [1][-]{section.5.4}{اعمال قوانین طراحی نرم افزار}{chapter.5}% 48
+\BOOKMARK [2][-]{subsection.5.4.1}{طراحی برای تغییر}{section.5.4}% 49
+\BOOKMARK [2][-]{subsection.5.4.2}{جداسازی دغدغه ها}{section.5.4}% 50
+\BOOKMARK [2][-]{subsection.5.4.3}{پنهان سازی اطلاعات}{section.5.4}% 51
+\BOOKMARK [2][-]{subsection.5.4.4}{چسبندگی زیاد}{section.5.4}% 52
+\BOOKMARK [2][-]{subsection.5.4.5}{جفت شدگی کم}{section.5.4}% 53
+\BOOKMARK [1][-]{section.5.5}{جمع بندی}{chapter.5}% 54
+\BOOKMARK [0][-]{chapter.6}{مورد کاربرد}{}% 55
+\BOOKMARK [1][-]{section.6.1}{نمودار مورد کاربردها}{chapter.6}% 56
+\BOOKMARK [1][-]{section.6.2}{مورد کاربردهای سطح بالا}{chapter.6}% 57
+\BOOKMARK [1][-]{section.6.3}{ماتریس ردیابی نیازمندی - مورد کاربرد}{chapter.6}% 58
+\BOOKMARK [1][-]{section.6.4}{موردکاربردهای گسترده}{chapter.6}% 59
+\BOOKMARK [1][-]{section.6.5}{سناریوها، جدول سناریوهاونمودارهای توالی موردکاربرها}{chapter.6}% 60
+\BOOKMARK [0][-]{chapter.7}{نمودار کلاس طراحی}{}% 61
+\BOOKMARK [1][-]{section.7.1}{چگونگی نحوه رسم نمودار کلاس طراحی}{chapter.7}% 62
+\BOOKMARK [1][-]{section.7.2}{نمودار کلاس طراحی}{chapter.7}% 63
+\BOOKMARK [1][-]{section.7.3}{دست آوردهای پروژه}{chapter.7}% 64
+\BOOKMARK [1][-]{section.7.4}{نرم افزارهای استفاده شده در پروژه}{chapter.7}% 65
